@@ -6,7 +6,7 @@ Peform Following task if any problem communicate with other student using discus
 
 3. Dump table into csv file "result.csv".
 
-4. Read CSV file and Print Total Marks and Grade of each student.
+4. Read result.csv file and Print Total Marks and Grade of each student. Also Append Total Marks and Grade column into result.csv file.
 
 5. List out Top 3 Student id and name with its percentage.
 
